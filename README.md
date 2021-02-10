@@ -67,3 +67,4 @@ Things you may want to cover:
 
 - has_many :users
 - has_many :prototypes
+
